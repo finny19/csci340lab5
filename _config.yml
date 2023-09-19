@@ -1,7 +1,7 @@
 title: Fin's Silly Little Blog
 description: Long Form Jekyll theme built with SASS, second version of Fin's Silly Little Blog
 
-url: https://long-haul.netlify.app
+url: https://finny19.github.io/csci340lab5
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
 
@@ -26,9 +26,7 @@ navigation:
 
 social:
     github: finny19
-    facebook: N/A
     email: lockertfr@hendrix.edu
-    linkedin: N/A
 
 google_analytics: "UA-58263416-1"
 
