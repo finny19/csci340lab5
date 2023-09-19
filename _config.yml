@@ -1,5 +1,5 @@
-title: Long Haul
-description: Long Form Jekyll theme built with SASS
+title: Fin's Silly Little Blog
+description: Long Form Jekyll theme built with SASS, second version of Fin's Silly Little Blog
 
 url: https://long-haul.netlify.app
 paginate_path: "blog/page:num/"
@@ -25,11 +25,10 @@ navigation:
       url: /contact
 
 social:
-    github: brianmaierjr
-    twitter: brianmaierjr
-    facebook: brianmaierjr
-    email: brimaidesigns@gmail.com
-    linkedin: brianmaierjr
+    github: finny19
+    facebook: N/A
+    email: lockertfr@hendrix.edu
+    linkedin: N/A
 
 google_analytics: "UA-58263416-1"
 
