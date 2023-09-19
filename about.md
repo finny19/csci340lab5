@@ -1,24 +1,13 @@
 ---
 layout: default
-title: About Long Haul
+title: About Me
 ---
 
 <div class="post">
-	<h1 class="pageTitle">About Long Haul</h1>
+	<h1 class="pageTitle">About Me (Fin!!)</h1>
 	<img src="{{ '/assets/img/computer.jpg' }}" alt="">
-	<p class="intro">Long Haul is a minimal, long form <a href="http://jekyllrb.com">Jekyll</a> Theme. It can be used as is or customized to your hearts desire.</p>
-	<p>Long Haul was created in honor of all the hard working touring bicycles that have traversed the globe time and time again. Take it for a spin.</p>
-	<h2>Features</h2>
-	<ul>
-		<li>Built with the <a href="https://github.com/jekyll/jekyll-sass-converter">Jekyll SASS convertor</a> plugin</li>
-  		<li>SVG Social Icons from <a href="http://customizr.net/icons/">Customizr</a></li>
-  		<li><a href="http://responsive-nav.com/">Responsive Nav Menu</a></li>
-  		<li><a href="https://github.com/snaptortoise/jekyll-rss-feeds">XML Feed for RSS Readers</a></li>
-  		<li>Contact Form via <a href="http://formspree.io/">Formspree</a></li>
-      <li>5 Post Loop with excerpt on Home Page</li>
-  		<li>Previous / Next Post Navigation</li>
-      <li>Estimated Reading Time for posts</li>
-  		<li><a href="https://github.com/adobe-webplatform/dropcap.js">Drop Cap</a> on posts</li>
-  		<li><a href="http://typecast.com/blog/a-more-modern-scale-for-web-typography">A Better Type Scale</a></li>
-  	</ul>
+	<p class="intro">Hey everyone, I'm Fin. Currently, I am a student at Hendrix College and majoring in computer science. This blog was made as a lab assignment for one of my programming classes, and I actually really like the idea (especially if I get to control who sees it). </p>
+	<p>This blog is probably only going to be about what I'm up to in that class, but who knows? There could always be something completely unrelated happening. Because of that though, I doubt it'll be reaching a large audience. As for the current audience, it'll consist of my professor for the course, my parents, and perhaps my peers.
+	But thats about it. I go to school, I do (mostly) normal things, and I live. So stay tuned for the blog, yeah?  
+	Fin</p>
 </div>
